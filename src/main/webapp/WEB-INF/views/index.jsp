@@ -65,7 +65,7 @@
             <div class="row header-top">
                 <div class="container">
                     <ul>
-                        <!-- <li class="wayToHomeservicemail"><span><i class="fa fa-envelope" aria-hidden="true"></i> w2hs@hotmail.com </span></li> -->
+                        <!-- <li class="wayToHomeservicemail"><span><i class="fa fa-envelope" aria-hidden="true"></i> services@rediffmail.com </span></li> -->
                        
                         <li class="wayToHomeservicemail"><i class="fa fa-envelope" aria-hidden="true"style="color:#fba816;"></i> <a href="mailto:sway2homeservices@gmail.com" target="_top" style="color:#fba816;">way2homeservices@gmail.com </a></li>
                         <li class="padding-left20"><span><i class="fa fa-phone" aria-hidden="true"></i> +91 9848022338</span></li>
