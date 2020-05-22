@@ -114,7 +114,7 @@
                 </ul>
             </div>
             <div class="col-md-4">
-            	<h2 class="footer-heading">REACH US</h2>
+            	<h2 class="footer-heading">REACH OUT</h2>
                 
                 <p class="pull-left">C145,II Phase,Allwyn Colony, Kukatpally, Hyd-500072</p>
                   
